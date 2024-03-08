@@ -95,8 +95,7 @@ void loop()
    	delay(500);
    digitalWrite(red, LOW);
    	delay(500);
-  }
-  
+  }  
   else
   {
    digitalWrite(green, HIGH);
@@ -104,7 +103,6 @@ void loop()
     digitalWrite(green, LOW);
   delay(500);
   }
-  
   }
   
 ```
@@ -122,12 +120,7 @@ void loop()
 			
 ### Schematic Diagram
 ![image](https://github.com/SanthoshThiru/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/148958618/839ceb59-0539-43bd-87b1-46108efa2618)
-
-			
 	
-
-			
-			
 			
 			
 			
@@ -136,12 +129,13 @@ void loop()
     				      =1.546
 
 ### OUTPUT SIMULATION
-When Green LED glows
+## When Green LED glows
 
 ![image](https://github.com/SanthoshThiru/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/148958618/b67ed465-821c-4101-b643-aa5c87f7d1ba)
 
 
-When Red LED glows
+## When Red LED glows
+
 ![image](https://github.com/SanthoshThiru/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/148958618/7e516127-ed77-4f87-8a75-4fbdc56c4eb1)
 
 
